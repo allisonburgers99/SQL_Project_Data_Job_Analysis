@@ -20,7 +20,7 @@ Each query for this project aimed at investigating specific aspects of the data 
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
-![Top Paying Data Analyst Jobs]([image-1.png](https://github.com/allisonburgers99/SQL_Project_Data_Job_Analysis/blob/main/sql_project/assets/1%20darkmode.png?raw=true)
+![Top Paying Data Analyst Jobs](https://github.com/allisonburgers99/SQL_Project_Data_Job_Analysis/blob/main/sql_project/assets/1%20darkmode.png?raw=true)
 *Bar graph visualizing salary for the top 10 Data Analyst companies.*
 
 ```sql
