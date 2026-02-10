@@ -106,7 +106,7 @@ LIMIT 25
 ### 5. Optimal Skills
 This query provides insight into the skills that are high in demand and have high salary.
 
-![alt text](image-2.png)
+![Optimal skills](https://github.com/allisonburgers99/SQL_Project_Data_Job_Analysis/blob/main/sql_project/assets/5.png)
 *Bubble Chart visualizing Skill Demand and Average Salary*
 
 ```sql
