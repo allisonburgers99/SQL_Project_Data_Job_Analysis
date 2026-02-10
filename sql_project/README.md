@@ -20,7 +20,7 @@ Each query for this project aimed at investigating specific aspects of the data 
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
-![Top Paying Data Analyst Jobs](image-1.png)
+![Top Paying Data Analyst Jobs](sql_project/assets/1 darkmode.png)
 *Bar graph visualizing salary for the top 10 Data Analyst companies.*
 
 ```sql
@@ -172,3 +172,4 @@ demanded skill in the data analyst job market, thus making it essential for job 
 4. **Skills with Higher Salaries**: Specialized
 skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
 5. **Optimal Skills for Job Market Value**: SQL, Python and Excel leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
+
